@@ -16,16 +16,5 @@ Google drive link is given here" https://drive.google.com/drive/folders/1WxOsXlC
 Proposed models are available in Models directory 
 ##### Basic Usage
 ```
-$ python multi_channel_hybrid.py
-```
-
-```
-$ python Multi_channel_hybrid_all_true.py
-```
-```
-$ python multi_channel_hybrid_GRU.py
-```
-
-```
-$ python Multi_channel_hybrid_all_true-GRU.py
+$ python multi_channel_RCNN.py
 ```
