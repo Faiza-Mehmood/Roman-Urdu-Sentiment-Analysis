@@ -9,6 +9,7 @@ This paper provides 3 types of Word Embedings:
 1. FastText
 2. Word2Vec
 3. GloVE
+
 Google drive link is given here" https://drive.google.com/drive/folders/1WxOsXlCpM9rPDFN7ffFA9aZ_bYM985lX?usp=sharing 
 
 #### Models
